@@ -18,9 +18,9 @@ public class DataTypes {
 
         int age2 = 34, height1 = 145, distance1 = 41;
 
-        System.out.println(age);
-        System.out.println(height);
-        System.out.println(distance);
+        System.out.println(age2);
+        System.out.println(height1);
+        System.out.println(distance1);
 
         System.out.println(initial);
     }
